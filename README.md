@@ -35,7 +35,9 @@ In this project, I analyzed the relationship between various advertising channel
 
 ## 📋 Project Structure
 - **`data/`**: Contains the dataset used for training and testing.
-- **`notebooks/`**: Jupyter Notebooks with code implementations for different models.
+- **`Simple_Linear_Regression/`**: Jupyter Notebooks with code implementations for  Simple_Linear_Regression model.
+- **`Multiple_Linear_Regression/`**: Jupyter Notebooks with code implementations for  Simple_Linear_Regression model.
+- **`Polynomial_Regression/`**: Jupyter Notebooks with code implementations for  Simple_Linear_Regression model.
 - **`README.md`**: Project documentation.
 
 ---
