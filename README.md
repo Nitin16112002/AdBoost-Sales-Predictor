@@ -56,7 +56,3 @@ In this project, I analyzed the relationship between various advertising channel
 
 ---
 
-## 📎 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ADSales_Predictor.git
